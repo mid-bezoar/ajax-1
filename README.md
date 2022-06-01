@@ -6,6 +6,5 @@
 2. 调用该对象的 open 方法 .open(method, url)
 
 3. 监听对象的 onreadystatechange 事件
- -在该事件处理函数里操作文件(css/js/html/responseXML/JSON.parse/JSON.stringify)等内容
-
+ - 在该事件处理函数里操作文件(css/js/html/responseXML/JSON.parse/JSON.stringify)等内容
 4.调用对象 send 方法发送请求
